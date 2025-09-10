@@ -1,5 +1,5 @@
 body {
-background-image: url("z-Pictures/myself.jpg");
+background-image: url("z-Pictures/swirly.jpg");
 color: rgb(45, 45, 45);
 padding: 10px;
 font-family: Arial, sans-serif;
@@ -83,6 +83,46 @@ margin-top: 20px;
 }
 
 
+
+
+
+
 h2, h3 {
 margin: 0px;
 }
+
+
+/* Portfolio styles */
+.content h1 {
+color: rgb(10, 0, 0);
+}
+
+
+#portfolio {
+list-style-type: none;
+padding-left: 0;
+}
+
+
+#portfolio li {
+background: #0e0000;
+padding: 10px;
+border-radius: 10px;
+margin-bottom: 10px;
+}
+
+
+#portfolio li:hover {
+background: #12025a;
+}
+
+
+#portfolio a {
+text-decoration: none;
+color: #f1f1f1;
+}
+
+
+
+
+
