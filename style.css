@@ -4,6 +4,9 @@ color: rgb(45, 45, 45);
 padding: 10px;
 font-family: Arial, sans-serif;
 }
+#portBG {
+background-image: url("z-Pictures/swirlyp2.jpg");
+}
 
 
 #all-contents {
@@ -92,7 +95,12 @@ margin: 0px;
 }
 
 
-/* Portfolio styles */
+/* P#portfolio li {
+background: url"swirlyp2.jpg"
+padding: 10px;
+border-radius: 10px;
+margin-bottom: 10px;ortfolio styles */
+
 .content h1 {
 color: rgb(10, 0, 0);
 }
