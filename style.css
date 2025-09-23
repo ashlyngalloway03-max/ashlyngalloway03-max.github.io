@@ -8,6 +8,9 @@ font-family: Arial, sans-serif;
 background-image: url("z-Pictures/swirlyp2.jpg");
 }
 
+#platformer.js {
+    background-image: url(z-Pictures/clouds.jpg);
+}
 
 #all-contents {
 max-width: 800px;
