@@ -21,7 +21,7 @@ $(function () {
     createPlatform(-50, canvas.height - 10, canvas.width + 100, 200, "blue"); // bottom wall
     createPlatform(-40, -50, 50, canvas.height + 500, "blue"); // left wall
     createPlatform(canvas.width,-5, -50, 50, canvas.height + 100, "blue"); // right wall
-
+   
     //////////////////////////////////
     // ONLY CHANGE BELOW THIS POINT //
     //////////////////////////////////
@@ -42,7 +42,9 @@ createPlatform(600,650, 100,10, " blue")
  createPlatform(300, 100, 100, 10, "blue")
  createPlatform(200, 300, 100, 100, "white")
     // TODO 3 - Create Collectables
-
+  //createCollectable("type", xPos, yPos, gravityNum, bounceNum Between 0 and .99)
+//type can be any of these. In "". database diamond grace kennedi max steve
+createCollectable("diamond", 230, 200,1, 1)
 
 
     
