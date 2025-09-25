@@ -45,6 +45,7 @@ createPlatform(600,650, 100,10, " blue")
   //createCollectable("type", xPos, yPos, gravityNum, bounceNum Between 0 and .99)
 //type can be any of these. In "". database diamond grace kennedi max steve
 createCollectable("diamond", 230, 200,1, 1)
+createCollectable("database", 1250, 300, 1, 1)
 
 
     
